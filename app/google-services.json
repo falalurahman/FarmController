@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "621357286557",
+    "firebase_url": "https://dis2017-c36cb.firebaseio.com",
+    "project_id": "dis2017-c36cb",
+    "storage_bucket": "dis2017-c36cb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:621357286557:android:c548a5c6572870b9",
+        "android_client_info": {
+          "package_name": "com.falalurahman.farmcontroller"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "621357286557-q5lt8gjpt3dp2q7r98ot5bijt5hdst4m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.falalurahman.farmcontroller",
+            "certificate_hash": "897022eb3929bea5b9815a19326207a090dc5298"
+          }
+        },
+        {
+          "client_id": "621357286557-npugmbujf3ajnku9k8eubu6p6mqiqkrb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCUpo5eVvOBQDejv7j30zEsyE6L1tP_jNg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "621357286557-npugmbujf3ajnku9k8eubu6p6mqiqkrb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
